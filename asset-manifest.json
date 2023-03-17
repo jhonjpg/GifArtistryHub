@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gif-filter/static/css/main.ad6d0eae.css",
+    "main.js": "/gif-filter/static/js/main.1c27c9f0.js",
+    "index.html": "/gif-filter/index.html",
+    "main.ad6d0eae.css.map": "/gif-filter/static/css/main.ad6d0eae.css.map",
+    "main.1c27c9f0.js.map": "/gif-filter/static/js/main.1c27c9f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad6d0eae.css",
+    "static/js/main.1c27c9f0.js"
+  ]
+}
