@@ -2,7 +2,7 @@
     "name": "gifapp",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/jhonjpg/filter-gif-practice.git",
+    "homepage": "https://jhonjpg.github.io/filter-gif-practice/build",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
         "@testing-library/react": "^13.4.0",
